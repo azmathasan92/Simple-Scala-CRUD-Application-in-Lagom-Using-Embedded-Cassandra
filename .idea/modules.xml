@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/product-api/product-api.iml" filepath="$PROJECT_DIR$/product-api/product-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-api-build.iml" filepath="$PROJECT_DIR$/.idea/modules/product-api-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-impl/product-impl.iml" filepath="$PROJECT_DIR$/product-impl/product-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-impl-build.iml" filepath="$PROJECT_DIR$/.idea/modules/product-impl-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-crud-in-lagom-using-embedded-cassandra.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-crud-in-lagom-using-embedded-cassandra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-crud-in-lagom-using-embedded-cassandra-build.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-crud-in-lagom-using-embedded-cassandra-build.iml" />
+    </modules>
+  </component>
+</project>
