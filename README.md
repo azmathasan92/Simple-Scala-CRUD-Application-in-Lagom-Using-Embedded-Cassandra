@@ -1,0 +1,1 @@
+# Simple-Scala-CRUD-Application-in-Lagom-Using-Embedded-Cassandra
