@@ -11,9 +11,9 @@ class ProductEntity extends PersistentEntity {
   override type Event = ProductEvent
   override type State = NotUsed
 
-  override def initialState = NotUsed
+  override def initialState: NotUsed.type = NotUsed
 
-  override def behavior =
+  override def behavior: Actions =
     Actions()
       .onCommand[AddProduct, Done] {
       case (AddProduct(product), ctx, _) =>
