@@ -7,8 +7,9 @@ In this lagom application, we used embedded Cassandra to store the data and pers
 
 We created only one microservice in this project which is ProductService which contains two methods:
 
-*1. addProduct(product:Product)
- 2. getProduct(id:String)*
+ 1. addProduct(product:Product)
+ 
+ 2. getProduct(id:String)
 
 addProduct(product: Product) method is used to add the product to the embedded Cassandra and getProduct(id: String) method is used to retrieve the particular product from the id.
 
