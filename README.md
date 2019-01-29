@@ -17,17 +17,17 @@ addProduct(product: Product) method is used to add the product to the embedded C
 
  1. Clone the project:
 	
-   $git clone https://github.com/azmathasan92/Simple-Scala-CRUD-Application-in-Lagom-Using-Embedded-Cassandra.git
+        $git clone https://github.com/azmathasan92/Simple-Scala-CRUD-Application-in-Lagom-Using-Embedded-Cassandra.git
 
 
  2. Go to the Project folder:
 
-   $cd Simple-Scala-CRUD-Application-in-Lagom-Using-Embedded-Cassandra
+        $cd Simple-Scala-CRUD-Application-in-Lagom-Using-Embedded-Cassandra
 
 
  3. Run the Lagom Project:
 
-$sbt runAll
+        $sbt runAll
 
 It will take some time to run the servers ...
 
@@ -35,7 +35,8 @@ Once the server is started you can add the product in the Cassandra database.
 
 # Adding a product into the application:
   This is the POST request route to add the product
-   https://localhost:9000/products/add/product
+  
+    https://localhost:9000/products/add/product
    
    you can hit this url from the POSTMAN POST request and give the header :
    
