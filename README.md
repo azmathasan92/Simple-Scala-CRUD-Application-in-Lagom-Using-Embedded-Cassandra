@@ -63,5 +63,3 @@ Once the server is started you can add the product in the Cassandra database.
     //you simply download the collection file from the above link and then import the file from the POSTMAN and run the requests
 
 Now you have created a successful insert and retrieve application on lagom framework using embedded Cassandra 
-
-Thank you
